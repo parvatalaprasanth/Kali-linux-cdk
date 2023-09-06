@@ -1,0 +1,9 @@
+{
+  "availability-zones:account=155153302035:region=ap-south-1": [
+    "ap-south-1a",
+    "ap-south-1b",
+    "ap-south-1c"
+  ],
+  "ami:account=155153302035:filters.image-type.0=machine:filters.name.0=kali-last-snapshot-amd64-2023.3.0-804fcc46-63fc-4eb6-85a1-50e66d6c7215:filters.state.0=available:region=ap-south-1": "ami-094e0b577d0847219",
+  "ami:account=155153302035:filters.image-type.0=machine:filters.name.0=kali-gui-linux-upgraded-to-22-04-v01-8801e2c5-64b9-4c82-a83f-6a2227976dc9:filters.state.0=available:region=ap-south-1": "ami-0643732f55ca57cab"
+}
