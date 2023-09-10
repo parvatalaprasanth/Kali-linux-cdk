@@ -7,6 +7,5 @@ const app = new cdk.App();
 new KaliLinuxCdkStack(app, 'KaliLinuxCdkStack', {
   env : {
     region: 'ap-south-1',
-    account: '155153302035'
   }
 });
